@@ -6,6 +6,16 @@ Mostras el uso de tecnicas y herremientas para la extraccion, limpiesa y analisi
 
 Enlace de proyecto:     Aqui vendra un enlace del codigo en jupyter para poder ser ejecutado en linea.                        
 
+## Indice
+### 1 Modelo de Analisis de vida Analisis de datos.
+#### 1.1 Ciclo de vida de analisis de datos
+### 2 Descripción del conjunto de dato
+### 3 Desarollo
+#### 3.1 Obtención, investigacion y preparación de datos
+#### 3.2 Analisis de datos
+##### 3.2.1 Reducción de dimensionalidad
+##### 3.2.2 Modelos de Aprendizaje no supervizado
+
 ## 1 Modelo de Analisis de vida Analisis de datos.
 
 ### 1.1 Ciclo de vida de analisis de datos
